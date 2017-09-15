@@ -2,6 +2,11 @@ SweetAlert Widget for Yii 2
 ======================
 SweetAlert widget based on [SweetAlert](http://lipis.github.io/bootstrap-sweetalert/)
 
+[![Latest Stable Version](https://poser.pugx.org/kv4nt/yii2-sweet-alert/v/stable.svg)](https://packagist.org/packages/kv4nt/yii2-sweet-alert)
+[![Total Downloads](https://poser.pugx.org/kv4nt/yii2-sweet-alert/downloads.svg)](https://packagist.org/packages/kv4nt/yii2-sweet-alert)
+[![Build Status](https://travis-ci.org/kv4nt/yii2-sweet-alert.svg?branch=master)](https://travis-ci.org/kv4nt/yii2-sweet-alert)
+
+
 Installation 
 ------------
 
